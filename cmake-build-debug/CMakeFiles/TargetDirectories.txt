@@ -1,0 +1,3 @@
+/home/samuelvillegas/CLionProjects/3NPlus1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/samuelvillegas/CLionProjects/3NPlus1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/samuelvillegas/CLionProjects/3NPlus1/cmake-build-debug/CMakeFiles/3NPlus1.dir
